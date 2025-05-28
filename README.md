@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Vasu Kathrotia
 
-<!--
-**vasu1104/vasu1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postgraduate Student at Fanshawe College | 📍 London, Ontario  
+💡 Passionate about Data Science, Machine Learning, and Software Engineering  
+📊 Skilled in Python, SQL, Scikit-learn, Flask, Django, and AWS  
+📈 Working on real-world ML projects like Sales Forecasting & Flight Prediction
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: Python, SQL, JavaScript
+- **Frameworks**: Django, Flask, REST API
+- **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib
+- **Tools**: Git, GitHub, Jupyter, VS Code
+- **Cloud**: AWS (Cloud Practitioner Certified)
+
+---
+
+## 📂 Featured Projects
+
+### [🛍️ Sales Forecasting & Insights](https://github.com/vasu1104/Data-Scientist-Intern-ll-Project-Vasu)
+> Built and deployed a retail sales prediction model using Flask, EDA, and ML algorithms like XGBoost & Random Forest.
+
+### [✈️ Optimal Flight Time Prediction](https://github.com/vasu1104/Data-Scientist-Intern-ll-Project-Vasu)
+> Used clustering and regression models to predict the best times to book flights, saving costs through analytics.
+
+### [🛒 Big Mart Sales Prediction](https://github.com/vasu1104/Data-Scientist-Intern-ll-Project-Vasu)
+> Completed full ML pipeline from data preprocessing to deployment using Python and Scikit-learn.
+
+---
+
+## 📫 Connect with Me
+- GitHub: [vasu1104](https://github.com/vasu1104)
+- LinkedIn: [linkedin.com/in/vasukathrotiya](https://linkedin.com/in/vasukathrotiya)
+- Email: vasu1104patel@gmail.com
