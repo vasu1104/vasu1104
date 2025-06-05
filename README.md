@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Vasu Kathrotia<br><br>🎓 Postgraduate Student at Fanshawe College | 📍 London, Ontario  <br>💡 Passionate about Data Science, Machine Learning, and Software Engineering  <br>📊 Skilled in Python, SQL, Scikit-learn, Flask, Django, and AWS  <br>📈 Working on real-world ML projects like Sales Forecasting & Flight Prediction<br><br>🔭 I’m currently working on<br>Improving my technical portfolio through hands-on labs in SSRS, Power Automate, and Blueprint modeling for real-world system design projects (e.g., PVF Capstone). I'm also developing my GitHub website and customizing a personal portfolio to reflect my data and support projects.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Entry-level or co-op opportunities in Technical Support, QA Testing, or System Analysis, where I can contribute to automation, documentation, and technical issue resolution.<br>
 
-(Computer%20Working%20GIF.gif)
+## 💻 Working Mode Activated
+![Computer Working](Computer%20Working.gif)
+![Computer Working](Animation%20Render%20GIF%20by%20gfaught.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasu Nitesh Kathrotia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v_kathrotia@fanshaweonline.ca) 
