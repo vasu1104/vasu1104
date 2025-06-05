@@ -3,7 +3,7 @@
 
 ## 💻 Working Mode Activated
 
-![Computer Working](Computer%20Working.gif)
+![Computer Working](ComputerWorking.gif)
 
 
 ## 🌐 Socials:
